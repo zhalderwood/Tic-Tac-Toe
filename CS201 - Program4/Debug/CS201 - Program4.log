@@ -1,0 +1,3 @@
+﻿  Board.cpp
+C:\Users\Zach\Google Drive\Repos\CS201_Program_4\CS201 - Program4\Board.cpp(167,7): warning C4804: '<': unsafe use of type 'bool' in operation
+  CS201 - Program4.vcxproj -> C:\Users\Zach\Google Drive\Repos\CS201_Program_4\Debug\CS201 - Program4.exe
